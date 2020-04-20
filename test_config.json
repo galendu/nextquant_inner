@@ -1,0 +1,39 @@
+{
+    "LOG":
+    {
+        "console": true,
+        "level": "INFO",
+        "path": "log",
+        "name": "quant.log",
+        "clear": true,
+        "backup_count": 1
+    },
+    "HANDLE_RABBITMQ":
+    {
+        "host": "47.244.151.32",
+        "port": 5672,
+        "username": "april",
+        "password": "april0401"
+    },
+    "RABBITMQ":
+    {
+        "host": "47.244.151.32",
+        "port": 5672,
+        "username": "april",
+        "password": "april0401",
+        "virtualhost": "/"
+    },
+    "PLATFORMS":
+    {
+        "okex":
+        {
+            "account": "okex_company",
+            "access_key": "apiKeybc7a9e3d-0181-4a98-8031-5f6ac4edf568",
+            "secret_key": "secretKey6D6B61D0C17901895DD05BB8DE776DC1",
+            "passphrase": "15575951918"
+        }
+    },
+    "server_id": "3b34db0a-c22a-11e9-bba9-00163e04f7db",
+    "strategy": "test1",
+    "spacing": 2
+}
