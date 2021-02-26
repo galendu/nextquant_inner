@@ -21,7 +21,7 @@ setup(
     ],
     install_requires=[
         "async-timeout==3.0.1",
-        "aiohttp==3.2.1",
+        "aiohttp==3.7.4",
         "aioamqp==0.13.0",
         "motor==2.0.0",
         "cryptocompy==0.1.1.dev1",
