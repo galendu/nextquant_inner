@@ -27,6 +27,6 @@ setup(
         "cryptocompy==0.1.1.dev1",
         "pandas==0.25.1",
         "pycryptodome==3.8.2",
-        "requests==2.21.0 "
+        "requests==2.31.0 "
     ],
 )
